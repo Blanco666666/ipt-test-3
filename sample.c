@@ -1,26 +1,9 @@
 #include <stdio.h>
 
 int main(){
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	printf("ivan");
-
 	printf("hello nibba");
         printf("mauricethegoat");
 	printf("Christianwaw");
+	printf("ivan");
+	printf("yeah boi");
 }
